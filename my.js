@@ -22,7 +22,7 @@ function addRow(){
         mode: "no-cors", // no-cors, *cors, same-origin
         cache: "no-cache", // *default, no-cache, reload, force-cache, only-if-cached
         redirect: "follow", // manual, *follow, error
-        body: JSON.stringify({name: "Olive Oyle"}), // body data type must match "Content-Type" header
+        body: JSON.stringify({name: "Olly Foil"}), // body data type must match "Content-Type" header
       })
         
 }
